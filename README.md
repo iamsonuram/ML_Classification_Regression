@@ -13,9 +13,9 @@ Documentation: Provide clear documentation, including a README file, to guide us
 
 ## Technologies Used:
 
-Python
-Pandas
-Scikit-Learn
-Matplotlib and Seaborn for data visualization
-Jupyter Notebook for code development
-Google Colab for cloud-based computing
+- Python
+- Pandas
+- Scikit-Learn
+- Matplotlib and Seaborn for data visualization
+- Jupyter Notebook for code development
+- Google Colab for cloud-based computing
